@@ -6,6 +6,10 @@ This is an example of defining an extension to the [js-moneysocket](https://gith
 
 TODO - screenshot
 
+A build of buyer and seller app is hosted at project homepage:
+[buyer](https://socket.money/bs-demo/buyer)
+[seller](https://socket.money/bs-demo/seller)
+
 
 The Gist Of It
 ------------------------------------------------------------------------
